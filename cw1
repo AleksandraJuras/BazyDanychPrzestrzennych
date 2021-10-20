@@ -1,0 +1,63 @@
+-- 3. funcjonalność postgis
+CREATE EXTENSION postgis;
+
+--4. utwórz trzy tabele
+CREATE TABLE buildings(id NUMERIC(5) ,geometry GEOMETRY, name VARCHAR(20));
+CREATE TABLE roads(id NUMERIC(5) ,geometry GEOMETRY, name VARCHAR(20));
+CREATE TABLE poi(id NUMERIC(5) ,geometry GEOMETRY, name VARCHAR(20));
+
+--5. współrzędne obiektów
+INSERT INTO buildings VALUES
+(1, 'POLYGON((8 4, 10.5 4, 10.5 1.5, 8 1.5, 8 4))','BuildingA'),
+(2, 'POLYGON((4 5, 6 5, 6 7, 4 7, 4 5))' ,'BuildingB'),
+(3, 'POLYGON((3 6, 5 6, 5 8, 3 8, 3 6))','BuildingC'),
+(4, 'POLYGON((9 8, 10 8, 10 9, 9 9, 9 8))' ,'BuildingD'),
+(5, 'POLYGON((1 1, 2 1, 2 2, 1 2, 1 1))','BuildingE')
+
+INSERT INTO poi VALUES
+(1,'POINT(1 3.5)', 'G'),
+(2, 'POINT(5.5 1.5)', 'H'),
+(3, 'POINT(9.5 6)', 'I'),
+(4, 'POINT(6.5 6)', 'J'),
+(5, 'POINT(6 9.5)', 'K')
+
+INSERT INTO roads VALUES 
+('1', 'LINESTRING(7.5 0, 7.5 10.5)', 'RoadY'),
+('2', 'LINESTRING(0 4.5, 12 4.5)', 'RoadX')
+
+SELECT * FROM buildings
+
+--6.
+-- a. całkowita długość dróg w mieście
+SELECT SUM(ST_Length(geometry)) FROM roads
+
+--b. wypisz geometrie WKT, pole powierzchni oraz obwód poligonu BuildingA
+SELECT ST_SRID(geometry), ST_Area(geometry), ST_Perimeter(geometry) FROM buildings WHERE name = 'BuildingA';
+
+--c. wypisz nazwy i pola powierzchni wszystkich poligonów i posortuj alfabetycznie
+SELECT name, ST_Area(geometry) FROM buildings ORDER BY name
+
+--d. wypisz nazwy i obwody 2 budynków o największej powierzchni
+SELECT name, ST_Perimeter(geometry) FROM buildings ORDER BY st_area(geometry) DESC LIMIT 2
+
+--e. wyznacz najkrótszą odległość między budynkiem BuildingC a punktem G.
+SELECT ST_ShortestLine(buildings.geometry, poi.geometry) AS ShortestLine
+FROM buildings, poi
+WHERE buildings.name = 'BuildingC' AND poi.name = 'G'
+
+--f. Wypisz pole powierzchni tej części budynku BuildingC, która znajduje się w odległości większej niż 0.5 od budynku BuildingB
+SELECT ST_Difference((SELECT geometry FROM buildings WHERE buildings.name='BuildingC'),
+					  ST_Buffer((SELECT geometry FROM buildings WHERE buildings.name='BuildingB'), 0.5))
+
+--g. Wybierz te budynki, których centroid (ST_Centroid) znajduje się powyżej drogi o nazwie RoadX
+SELECT buildings.geometry FROM buildings, roads
+WHERE ST_Y(ST_Centroid(buildings.geometry)) > ST_Y(ST_Centroid(roads.geometry)) AND roads.name='RoadX'
+
+--8. Oblicz pole powierzchni tych części budynku BuildingC i poligonu o współrzędnych (4 7, 6 7, 6 8, 4 8, 4 7), które nie są wspólne dla tych dwóch obiektów.
+SELECT ST_Area(ST_SymDifference((SELECT geometry FROM buildings
+						 		WHERE buildings.name='BuildingC'), ST_GeomFromText('POLYGON((4 7, 6 7, 6 8, 4 8, 4 7))')))
+
+
+
+
+
