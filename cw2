@@ -1,0 +1,36 @@
+CREATE EXTENSION postgis;
+SELECT * FROM popp;
+SELECT * FROM majrivers
+
+--4.
+SELECT popp.* INTO table_b FROM popp, majrivers
+WHERE ST_DWithin(popp.geom, majrivers.geom, 1000) AND popp.f_codedesc='Building'
+SELECT COUNT(*) FROM table_b
+--SELECT * FROM table_b;
+
+--5.
+SELECT * FROM airports
+SELECT name, geom, elev INTO airportsNew FROM airports
+--SELECT * FROM airportsNew
+
+--5a.
+SELECT name FROM airportsNew ORDER BY ST_X(geom) LIMIT 1, --ST_Y zwraca współrzędną y punktu
+SELECT name FROM airportsNew ORDER BY ST_X(geom) DESC LIMIT 1
+
+--5b.
+INSERT INTO airportsNew(name, elev, geom)
+SELECT 'airportB', 70, ST_Centroid(ST_MakeLine(a.geom, b.geom)) FROM airportsNew a, airportsNew b 
+--DELETE FROM airportsNew WHERE name='airportB'
+
+--6.
+--SELECT * FROM lakes
+SELECT ST_Area(ST_Buffer(ST_ShortestLine(lakes.geom, airports.geom), 1000))
+FROM lakes, airports WHERE lakes.names = 'Iliamna Lake' AND airports.name = 'AMBLER'
+
+--7.
+--SELECT * FROM trees
+SELECT vegdesc, SUM(ST_AREA(trees.geom))
+FROM tundra, swamp, trees
+WHERE ST_Contains(tundra.geom, trees.geom)='TRUE' OR ST_Contains(swamp.geom,trees.geom)='TRUE'
+GROUP BY vegdesc
+
