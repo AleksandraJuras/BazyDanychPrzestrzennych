@@ -1,0 +1,5318 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Powiaty",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Using FME Reprojection Engine",
+				"_log.level" : "INFORM",
+				"_log.number" : 395015,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'TextEncoderFactory' from file 'C:\\Program Files\\FME\\plugins/TextEncoderFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'TextEncoderFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'Geometry_func' from file 'C:\\Program Files\\FME\\plugins/Geometry_func.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'Geometry_func' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'HTTPFactory' from file 'C:\\Program Files\\FME\\plugins/HTTPFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'HTTPFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "... Last line repeated 2 times ...",
+				"_log.level" : "INFORM",
+				"_log.number" : 246030,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'XFMapFactory' from file 'C:\\Program Files\\FME\\plugins/XFMapFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'HTTPFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'HTTPFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'PythonFactory' from file 'C:\\Program Files\\FME\\plugins/PythonFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'PythonFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'QueryFactory' from file 'C:\\Program Files\\FME\\plugins/QueryFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'QueryFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'XFMapFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_StatisticsCalculator_SummaryExploder (ElementFactory): Using LEAN_AND_MEAN processing mode",
+				"_log.level" : "INFORM",
+				"_log.number" : 42002,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterProperties_func' from file 'C:\\Program Files\\FME\\plugins/RasterProperties_func.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterProperties_func' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterNodata_func' from file 'C:\\Program Files\\FME\\plugins/RasterNodata_func.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterNodata_func' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterEvaluationFactory' from file 'C:\\Program Files\\FME\\plugins/RasterEvaluationFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterEvaluationFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "... Last line repeated 2 times ...",
+				"_log.level" : "INFORM",
+				"_log.number" : 246030,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterPaletteAttributes_func' from file 'C:\\Program Files\\FME\\plugins/RasterPaletteAttributes_func.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterPaletteAttributes_func' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterEvaluationFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterClippingFactory' from file 'C:\\Program Files\\FME\\plugins/RasterClippingFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'SolidIntersectionFactory' from file 'C:\\Program Files\\FME\\plugins/SolidIntersectionFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'RasterStatisticsFactory' from file 'C:\\Program Files\\FME\\plugins/RasterStatisticsFactory.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'RasterStatisticsFactory' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "\nReading...",
+				"_log.level" : "STATRP",
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Source coordinate system for reader SHAPEFILE_1[SHAPEFILE] set to `ETRS89.PolandCS92' as read from input data",
+				"_log.level" : "INFORM",
+				"_log.number" : 883010,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Coordinate System `ETRS89.PolandCS92' parameters: CS_NAME=`ETRS89.PolandCS92' DESC_NM=`ETRS89 / Poland CS92' DT_NAME=`ETRS89/01' EPSG_QD=`-1' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`56.65' MAX_LNG=`25.416666666666668' MIN_LAT=`48.333333333333336' MIN_LNG=`12.883333333333333' PARM1=`19' PROJ=`TM' QUAD=`1' SCL_RED=`0.9993' SOURCE=`EPSG, V6.3, 2180 [Medium and small scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`-5300000' ZERO_X=`0.0001' ZERO_Y=`0.0001'",
+				"_log.level" : "INFORM",
+				"_log.number" : 211074,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Powiaty -1 2 -1  0  eae424fb9afbe766742ff5e0bf076702375647c9.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Writing 380 feature(s) to file 'C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Powiaty -1 2 -1  0  eae424fb9afbe766742ff5e0bf076702375647c9.fts'",
+				"_log.level" : "INFORM",
+				"_log.number" : 916512,
+				"_log.time" : "2022-01-24 19:53:46",
+				"_log.cpu_time" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Spatial Index: Adding 380 features",
+				"_log.level" : "INFORM",
+				"_log.number" : 395313,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "LogMessageStreamer (LogMessageFactory): Splitting bulk features into individual features",
+				"_log.level" : "INFORM",
+				"_log.number" : 910168,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_LogMessageStreamer -1 23 fo 0 LOGFILE  0  75eac717c0ae7a963dfb3ea66a2285a859a989f1.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_TestFilter -1 3 fo 1 _lt_lt_gt_UNFILTERED_lt_gt_gt_  0  6ecc90cbba56182c7b422fc84359285a3057444f.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_TestFilter -1 3 fo 0 _lt_at_gt_Value_lt_openparen_gt_JPT_NAZWA__lt_closeparen_gt  0  0780933780c1f9e96acdea75c3a379acd78770b8.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "CS-MAP Reprojector: Transformation will be automatically selected for 'ETRS89.PolandCS92' -> 'LL-WGS84', and is not guaranteed to remain the same in future releases of FME",
+				"_log.level" : "INFORM",
+				"_log.number" : 923270,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Reprojector: Using transformation `ETRS89/01_to_WGS84,Forward(Geocentric)' when reprojecting from ETRS89.PolandCS92 to LL-WGS84",
+				"_log.level" : "INFORM",
+				"_log.number" : 913062,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Reprojector -1 6 fo 0 REPROJECTED  0  7c01f368f087a45810db2baa65c631727e2000eb.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Initiator 1 2 0  0  047bfd9f7a411c48bc62146801b0504d08d84776.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TextEncoder 1 39 fo 0 OUTPUT  0  b3ab0da8f777968bcddab836f8efd1711cfbe626.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_VariableSetter 1 40 fo 0 OUTPUT  0  911debd46e75aaeb5d83e96671b61046c755b021.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_GeometryFilter 1 27 fo 1 AREA  0  0914bfc1be0ed5aebcb7b4dbbc17f45d73296a46.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_BoundingBoxReplacer 1 50 fo 0 BOX  0  4cc32225bacc10b50710781c47f8c70ae1047617.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_CoordinateExtractor_2 1 26 fo 0 OUTPUT  0  8d02d5d4c7bada55a3d23fdd1c6be9343d7c6801.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_AttributeCreator_2 1 31 fo 0 OUTPUT  0  f2203ec3f6a5b756a7fa74ea89ceb88a8bd7ffd3.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:47",
+				"_log.cpu_time" : 18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller (HTTPFactory): [1]: Starting HTTP download from 'scihub.copernicus.eu'",
+				"_log.level" : "INFORM",
+				"_log.number" : 416483,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller (HTTPFactory): [1]: HTTP transfer summary (scihub.copernicus.eu): status code: 200, download size: 1969 bytes, DNS lookup time: 67 ms, total transfer time: 1784 ms",
+				"_log.level" : "INFORM",
+				"_log.number" : 416455,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_HTTPCaller 1 17 fo 0 Output  0  65e525d42ba95dde6ff368fd804046ef03486cfa.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_XMLFragmenter 1 21 fo 0 FRAGMENTS  0  6f8bb4bb6e833f54a5c6f4364e71621a2750b09e.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_2 1 32 fo 0 PASSED  0  6cc5bcb454649524c9d135c0fbd00e3734db755f.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester 1 29 fo 1 PASSED  0  3c2d1cfa893cf5e5e502c0d4056d28273767b4f7.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_XMLFragmenter_2 1 28 fo 0 FRAGMENTS  0  3097f2d4ff52c1df9f6ce0f01b18c6dd694ea80d.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_StatisticsCalculator 1 24 fo 2 CUMULATIVE  0  282cd79e5f7b29cd3a3582f73cc6194b46eb41fd.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_XMLFlattener 1 30 fo 0 OUTPUT  0  15353d936bbed948af0e2a869559bfaf3a02eae4.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_VariableRetriever 1 41 fo 0 OUTPUT  0  0b624faf6b8c13b8835bfa75d1c059a4cb0d6c6f.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:53:49",
+				"_log.cpu_time" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: Starting HTTP download from 'scihub.copernicus.eu'. Expected transfer size: 230.52 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416484,
+				"_log.time" : "2022-01-24 19:53:50",
+				"_log.cpu_time" : 43
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 10.08 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:53:52",
+				"_log.cpu_time" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 20.09 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:53:54",
+				"_log.cpu_time" : 89
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 30.10 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:53:58",
+				"_log.cpu_time" : 122
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 40.11 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:01",
+				"_log.cpu_time" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 50.11 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:03",
+				"_log.cpu_time" : 173
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 60.12 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:05",
+				"_log.cpu_time" : 194
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 70.13 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:08",
+				"_log.cpu_time" : 222
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 80.14 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:10",
+				"_log.cpu_time" : 244
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 90.16 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:13",
+				"_log.cpu_time" : 267
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 100.20 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:16",
+				"_log.cpu_time" : 299
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 110.21 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:18",
+				"_log.cpu_time" : 326
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 120.21 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:22",
+				"_log.cpu_time" : 360
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 130.22 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:27",
+				"_log.cpu_time" : 409
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 140.23 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:32",
+				"_log.cpu_time" : 465
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 150.24 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:38",
+				"_log.cpu_time" : 518
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 160.24 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:41",
+				"_log.cpu_time" : 553
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 170.25 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:45",
+				"_log.cpu_time" : 588
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 180.26 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:49",
+				"_log.cpu_time" : 635
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 190.27 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:54",
+				"_log.cpu_time" : 679
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 200.28 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:54:57",
+				"_log.cpu_time" : 713
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 210.28 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:55:00",
+				"_log.cpu_time" : 743
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 220.29 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:55:03",
+				"_log.cpu_time" : 765
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 230.30 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP Download: received 230.52 MB",
+				"_log.level" : "INFORM",
+				"_log.number" : 416458,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_HTTPCaller_2 (HTTPFactory): [2]: HTTP transfer summary (scihub.copernicus.eu): status code: 200, download size: 241715574 bytes, DNS lookup time: 1 ms, total transfer time: 75622 ms",
+				"_log.level" : "INFORM",
+				"_log.number" : 416455,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_HTTPCaller_2 1 20 fo 0 Output  0  81c1c29c9712eb4d0334c5636368a5fa5517d87d.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Junction 1 51 fo 0 Output  0  0174c66c52713f2957b93b5740206540f5d6dcaf.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 790
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_FilenamePartExtractor 1 57 fo 0 OUTPUT  0  749f1a641ede74be0d61cd0e7031c0a315ef5780.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\ZipExtractor_Input 0 2 0  0  fa50b9c1367ae5ec7044abc3d0993603bc538054.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\ZipExtractor_ParameterFetcher 0 6 fo 0 OUTPUT  0  68b53af716066a265932dbeaeeacad59c2a1385d.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:05",
+				"_log.cpu_time" : 791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\ZipExtractor_PythonCaller 0 7 fo 0 OUTPUT  0  3b527529443aec77ec2bd91170e543d51ed2453f.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:07",
+				"_log.cpu_time" : 800
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\ZipExtractor_AttributeFilter 0 8 fo 1 directory  0  38a9140bfdd2089ac9309a5af718e425d154df7b.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:07",
+				"_log.cpu_time" : 800
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_ZipExtractor_2 1 56 fo 1 Directory  0  db601a897d2bcbac71d89e6ad86c0d36951ec9d6.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 800
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\ZipExtractor_AttributeFilter 0 8 fo 0 file  0  701a4e8b5a6ecf051260ddea1519f11b1f049ea3.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 801
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_ZipExtractor_2 1 56 fo 0 File  0  e36014622155c1a3775041960d8b053bf6c60b9d.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 801
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_4 1 58 fo 1 FAILED  0  fc2953d7c591956b9a2fd1b3c8b31c00834415d6.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 802
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_5 1 59 fo 1 FAILED  0  ceea4ab96419bc7ca2dd35c68d32893d7c416aed.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 802
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_4 1 58 fo 0 PASSED  0  c6e2e875139642471750e9bd73d65de14ac2e32c.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 803
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_3 1 52 fo 1 FAILED  0  f2d7bb99ba0fb62f284cf12e5cffe1abd17fed11.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 803
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_Tester_3 1 52 fo 0 PASSED  0  74b66cd96ea4a993e046b24b7f39ec333eb87806.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 805
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_3 1 53 fo 0 10m  0  72c5841e04e259ead232e9f3529d9100ad38e8f2.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:08",
+				"_log.cpu_time" : 805
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 807
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Loaded module 'JPEG2000' from file 'C:\\Program Files\\FME\\plugins/gdal/GDAL.dll'",
+				"_log.level" : "INFORM",
+				"_log.number" : 23016,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Performing query against JPEG2000 dataset `D:/Documents/Aleksandra_Juras/Studia_sem_5/Bazy_danych_przestrzennych/FME12/downloaded/sentinel_6/S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE/GRANULE/L2A_T34UEC_A025473_20220121T093212/IMG_DATA/R10m/T34UEC_20220121T093209_B02_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 370114,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B02_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:55:09",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "The EPSG number of the FME coordinate system 'UTM84-34N' is '32634'",
+				"_log.level" : "INFORM",
+				"_log.number" : 395606,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Source coordinate system for reader R_2[JPEG2000] set to `UTM84-34N' as read from input data",
+				"_log.level" : "INFORM",
+				"_log.number" : 883010,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Coordinate System `UTM84-34N' parameters: CS_NAME=`UTM84-34N' DESC_NM=`UTM-WGS 1984 datum, Zone 34 North, Meter; Cent. Meridian 21d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`24.75' MIN_LAT=`-8.4' MIN_LNG=`17.25' PARM1=`21' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'",
+				"_log.level" : "INFORM",
+				"_log.number" : 211074,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B02_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 808
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Merged 1 schema features read from 1 datasets into 1 resulting feature types",
+				"_log.level" : "INFORM",
+				"_log.number" : 13013,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 809
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_FeatureReader_3 1 54 fo 0 _lt_SCHEMA_gt_  0  d81ee80e1267bfd4862499623def4b3db05ff4a6.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 809
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_FeatureReader_3 1 54 fo 1 JPEG2000  0  b69388791a062c2fb6a53225319e2dd2dff7ac5a.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:11",
+				"_log.cpu_time" : 810
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 37.31% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:13",
+				"_log.cpu_time" : 844
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 81.59% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:15",
+				"_log.cpu_time" : 897
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_4 1 55 fo 1 B02  0  b7d10e51b43ae362af8f0ed411767b7baf49127b.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:16",
+				"_log.cpu_time" : 924
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 6.12% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:18",
+				"_log.cpu_time" : 954
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 13.95% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:20",
+				"_log.cpu_time" : 993
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 17.9% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:21",
+				"_log.cpu_time" : 1014
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 22.08% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:22",
+				"_log.cpu_time" : 1032
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 29.89% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:24",
+				"_log.cpu_time" : 1076
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 37.48% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:26",
+				"_log.cpu_time" : 1118
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 37.49% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:26",
+				"_log.cpu_time" : 1118
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 45.29% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:28",
+				"_log.cpu_time" : 1158
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 52.64% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:30",
+				"_log.cpu_time" : 1199
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 55.96% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:31",
+				"_log.cpu_time" : 1219
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 59.25% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:32",
+				"_log.cpu_time" : 1242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 66.63% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:34",
+				"_log.cpu_time" : 1283
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 74.02% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:36",
+				"_log.cpu_time" : 1326
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 74.1% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:36",
+				"_log.cpu_time" : 1326
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 80.91% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:38",
+				"_log.cpu_time" : 1366
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 88.21% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:40",
+				"_log.cpu_time" : 1406
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 91.17% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:41",
+				"_log.cpu_time" : 1426
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.84% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:42",
+				"_log.cpu_time" : 1449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:44",
+				"_log.cpu_time" : 1485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:44",
+				"_log.cpu_time" : 1485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_SentinelDownloader -1 5 fo 1 Band_2  0  ab630170db2caae950d1ebb3b0aad43a45e0fa74.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:55:44",
+				"_log.cpu_time" : 1486
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 5.66% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:46",
+				"_log.cpu_time" : 1520
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 10.44% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:48",
+				"_log.cpu_time" : 1552
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 13.41% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:49",
+				"_log.cpu_time" : 1570
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.42% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:50",
+				"_log.cpu_time" : 1589
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:52",
+				"_log.cpu_time" : 1623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.33% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:54",
+				"_log.cpu_time" : 1660
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.33% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:54",
+				"_log.cpu_time" : 1660
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 37.95% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:56",
+				"_log.cpu_time" : 1698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 43.31% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:58",
+				"_log.cpu_time" : 1735
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 46.2% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:55:59",
+				"_log.cpu_time" : 1755
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 49.07% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:00",
+				"_log.cpu_time" : 1777
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 56.22% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:02",
+				"_log.cpu_time" : 1815
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 64.14% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:04",
+				"_log.cpu_time" : 1858
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 64.17% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:04",
+				"_log.cpu_time" : 1858
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 71.73% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:06",
+				"_log.cpu_time" : 1901
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 79.36% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:08",
+				"_log.cpu_time" : 1948
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 83.17% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:09",
+				"_log.cpu_time" : 1968
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 86.44% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:10",
+				"_log.cpu_time" : 1992
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.49% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:12",
+				"_log.cpu_time" : 2033
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_FeatureReader_3 1 54 fo 3 INITIATOR  0  41ace7226416cd55d38ea1c95df7cb40cc3cdfc5.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_FeatureReader_3 (QueryFactory): 1 input initiators processed",
+				"_log.level" : "STATRP",
+				"_log.number" : 370126,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Performing query against JPEG2000 dataset `D:/Documents/Aleksandra_Juras/Studia_sem_5/Bazy_danych_przestrzennych/FME12/downloaded/sentinel_6/S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE/GRANULE/L2A_T34UEC_A025473_20220121T093212/IMG_DATA/R10m/T34UEC_20220121T093209_B03_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 370114,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B03_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Source coordinate system for reader R_4[JPEG2000] set to `UTM84-34N' as read from input data",
+				"_log.level" : "INFORM",
+				"_log.number" : 883010,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Coordinate System `UTM84-34N' parameters: CS_NAME=`UTM84-34N' DESC_NM=`UTM-WGS 1984 datum, Zone 34 North, Meter; Cent. Meridian 21d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`24.75' MIN_LAT=`-8.4' MIN_LNG=`17.25' PARM1=`21' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'",
+				"_log.level" : "INFORM",
+				"_log.number" : 211074,
+				"_log.time" : "2022-01-24 19:56:14",
+				"_log.cpu_time" : 2069
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 60.62% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:16",
+				"_log.cpu_time" : 2127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_4 1 55 fo 2 B03  0  6e5196e4c01eea9c0718286931f617c819b4c99a.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:56:18",
+				"_log.cpu_time" : 2175
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 8.26% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:20",
+				"_log.cpu_time" : 2214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.48% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:22",
+				"_log.cpu_time" : 2254
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 19.88% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:23",
+				"_log.cpu_time" : 2273
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.77% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:24",
+				"_log.cpu_time" : 2295
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 31.73% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:26",
+				"_log.cpu_time" : 2336
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 39.57% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:28",
+				"_log.cpu_time" : 2377
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 39.59% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:28",
+				"_log.cpu_time" : 2377
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 47.03% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:30",
+				"_log.cpu_time" : 2422
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 54.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:32",
+				"_log.cpu_time" : 2462
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 58.28% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:33",
+				"_log.cpu_time" : 2485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 61.77% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:34",
+				"_log.cpu_time" : 2503
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 69.13% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:36",
+				"_log.cpu_time" : 2545
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.36% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:38",
+				"_log.cpu_time" : 2584
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.43% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:38",
+				"_log.cpu_time" : 2584
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 83.73% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:40",
+				"_log.cpu_time" : 2625
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 90.17% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:42",
+				"_log.cpu_time" : 2666
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.87% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:43",
+				"_log.cpu_time" : 2689
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 97.92% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:44",
+				"_log.cpu_time" : 2709
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:44",
+				"_log.cpu_time" : 2720
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:44",
+				"_log.cpu_time" : 2720
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_SentinelDownloader -1 5 fo 2 Band_3  0  ac3ca6dffecc8d495ed038f0bd4f41951ef95a29.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:56:44",
+				"_log.cpu_time" : 2720
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 6.69% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:46",
+				"_log.cpu_time" : 2755
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 13.12% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:48",
+				"_log.cpu_time" : 2789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.33% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:49",
+				"_log.cpu_time" : 2806
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 20.11% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:50",
+				"_log.cpu_time" : 2825
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 27.26% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:52",
+				"_log.cpu_time" : 2862
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 35.09% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:54",
+				"_log.cpu_time" : 2910
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 35.1% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:54",
+				"_log.cpu_time" : 2910
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 42.8% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:56",
+				"_log.cpu_time" : 2950
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 49.4% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:58",
+				"_log.cpu_time" : 2985
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 53.4% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:56:59",
+				"_log.cpu_time" : 3003
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 56.92% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:00",
+				"_log.cpu_time" : 3027
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 64.24% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:02",
+				"_log.cpu_time" : 3067
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 71.69% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:04",
+				"_log.cpu_time" : 3110
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 71.72% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:04",
+				"_log.cpu_time" : 3110
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 78.74% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:06",
+				"_log.cpu_time" : 3153
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 85.73% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:08",
+				"_log.cpu_time" : 3192
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 89.21% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:09",
+				"_log.cpu_time" : 3210
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.2% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:10",
+				"_log.cpu_time" : 3231
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B03_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Merged 1 schema features read from 1 datasets into 1 resulting feature types",
+				"_log.level" : "INFORM",
+				"_log.number" : 13013,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_FeatureReader_3 (QueryFactory): 2 input initiators processed",
+				"_log.level" : "STATRP",
+				"_log.number" : 370126,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Performing query against JPEG2000 dataset `D:/Documents/Aleksandra_Juras/Studia_sem_5/Bazy_danych_przestrzennych/FME12/downloaded/sentinel_6/S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE/GRANULE/L2A_T34UEC_A025473_20220121T093212/IMG_DATA/R10m/T34UEC_20220121T093209_B04_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 370114,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B04_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Source coordinate system for reader R_6[JPEG2000] set to `UTM84-34N' as read from input data",
+				"_log.level" : "INFORM",
+				"_log.number" : 883010,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Coordinate System `UTM84-34N' parameters: CS_NAME=`UTM84-34N' DESC_NM=`UTM-WGS 1984 datum, Zone 34 North, Meter; Cent. Meridian 21d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`24.75' MIN_LAT=`-8.4' MIN_LNG=`17.25' PARM1=`21' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'",
+				"_log.level" : "INFORM",
+				"_log.number" : 211074,
+				"_log.time" : "2022-01-24 19:57:12",
+				"_log.cpu_time" : 3270
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 65.29% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:14",
+				"_log.cpu_time" : 3330
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_4 1 55 fo 3 B04  0  61eeba3a505e036cc4e9256bc4c79638fcd32b38.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:57:15",
+				"_log.cpu_time" : 3365
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 8.22% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:17",
+				"_log.cpu_time" : 3403
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.4% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:19",
+				"_log.cpu_time" : 3439
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 20.45% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:20",
+				"_log.cpu_time" : 3459
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 24.52% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:21",
+				"_log.cpu_time" : 3479
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 32.42% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:23",
+				"_log.cpu_time" : 3521
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 40.2% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:25",
+				"_log.cpu_time" : 3558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 40.23% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:25",
+				"_log.cpu_time" : 3558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 47.75% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:27",
+				"_log.cpu_time" : 3593
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 55.83% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:29",
+				"_log.cpu_time" : 3634
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 59.8% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:30",
+				"_log.cpu_time" : 3656
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 63.65% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:31",
+				"_log.cpu_time" : 3675
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 70.91% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:33",
+				"_log.cpu_time" : 3717
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 78.86% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:35",
+				"_log.cpu_time" : 3756
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 78.9% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:35",
+				"_log.cpu_time" : 3756
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 85.93% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:37",
+				"_log.cpu_time" : 3799
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.26% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:39",
+				"_log.cpu_time" : 3838
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 97.29% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:40",
+				"_log.cpu_time" : 3858
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:41",
+				"_log.cpu_time" : 3872
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:41",
+				"_log.cpu_time" : 3872
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_SentinelDownloader -1 5 fo 3 Band_4  0  b780115bf40ca009722a646c87007f7eee673d2e.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:57:41",
+				"_log.cpu_time" : 3873
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 6.63% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:43",
+				"_log.cpu_time" : 3906
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 12.56% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:45",
+				"_log.cpu_time" : 3938
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.06% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:46",
+				"_log.cpu_time" : 3953
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 20.1% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:47",
+				"_log.cpu_time" : 3973
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 27.98% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:49",
+				"_log.cpu_time" : 4012
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 35.88% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:51",
+				"_log.cpu_time" : 4046
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 36.06% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:51",
+				"_log.cpu_time" : 4047
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 43.88% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:53",
+				"_log.cpu_time" : 4090
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 51.29% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:55",
+				"_log.cpu_time" : 4131
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 54.56% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:56",
+				"_log.cpu_time" : 4148
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 57.34% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:57",
+				"_log.cpu_time" : 4167
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 63.97% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:57:59",
+				"_log.cpu_time" : 4204
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 71.56% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:01",
+				"_log.cpu_time" : 4242
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 71.8% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:01",
+				"_log.cpu_time" : 4244
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 79.25% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:03",
+				"_log.cpu_time" : 4286
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 86.75% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:05",
+				"_log.cpu_time" : 4329
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 90.36% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:06",
+				"_log.cpu_time" : 4349
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 93.79% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:07",
+				"_log.cpu_time" : 4373
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:09",
+				"_log.cpu_time" : 4404
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:09",
+				"_log.cpu_time" : 4404
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Sampler -1 26 fo 0 SAMPLED  0  0d255ea129017b1440a9d8e7a42903d6c505fa6a.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:58:09",
+				"_log.cpu_time" : 4404
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 6.07% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:11",
+				"_log.cpu_time" : 4437
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 11.78% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:13",
+				"_log.cpu_time" : 4471
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 14.87% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:14",
+				"_log.cpu_time" : 4491
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 17.45% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:15",
+				"_log.cpu_time" : 4505
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.37% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:17",
+				"_log.cpu_time" : 4543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.93% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:19",
+				"_log.cpu_time" : 4584
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.95% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:19",
+				"_log.cpu_time" : 4584
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.92% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:21",
+				"_log.cpu_time" : 4623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 46.64% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:23",
+				"_log.cpu_time" : 4664
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 50.74% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:24",
+				"_log.cpu_time" : 4685
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 54.79% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:25",
+				"_log.cpu_time" : 4705
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 62.64% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:27",
+				"_log.cpu_time" : 4749
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 69.94% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:29",
+				"_log.cpu_time" : 4791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 70.05% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:29",
+				"_log.cpu_time" : 4791
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 77.91% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:31",
+				"_log.cpu_time" : 4834
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 83.96% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:33",
+				"_log.cpu_time" : 4873
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 87.34% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:34",
+				"_log.cpu_time" : 4892
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 90.9% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:35",
+				"_log.cpu_time" : 4913
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 97.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4955
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B04_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Merged 1 schema features read from 1 datasets into 1 resulting feature types",
+				"_log.level" : "INFORM",
+				"_log.number" : 13013,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_FeatureReader_3 (QueryFactory): 3 input initiators processed",
+				"_log.level" : "STATRP",
+				"_log.number" : 370126,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Performing query against JPEG2000 dataset `D:/Documents/Aleksandra_Juras/Studia_sem_5/Bazy_danych_przestrzennych/FME12/downloaded/sentinel_6/S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE/GRANULE/L2A_T34UEC_A025473_20220121T093212/IMG_DATA/R10m/T34UEC_20220121T093209_B08_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 370114,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B08_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 19:58:37",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME Configuration: Source coordinate system for reader R_8[JPEG2000] set to `UTM84-34N' as read from input data",
+				"_log.level" : "INFORM",
+				"_log.number" : 883010,
+				"_log.time" : "2022-01-24 19:58:38",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Coordinate System `UTM84-34N' parameters: CS_NAME=`UTM84-34N' DESC_NM=`UTM-WGS 1984 datum, Zone 34 North, Meter; Cent. Meridian 21d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`24.75' MIN_LAT=`-8.4' MIN_LNG=`17.25' PARM1=`21' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'",
+				"_log.level" : "INFORM",
+				"_log.number" : 211074,
+				"_log.time" : "2022-01-24 19:58:38",
+				"_log.cpu_time" : 4969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 65.29% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:40",
+				"_log.cpu_time" : 5028
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_4 1 55 fo 7 B08  0  830f456b5ba542164d2917b08c35b48e9e611354.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:58:41",
+				"_log.cpu_time" : 5065
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 8.26% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:43",
+				"_log.cpu_time" : 5107
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 16.32% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:45",
+				"_log.cpu_time" : 5146
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 20.4% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:46",
+				"_log.cpu_time" : 5167
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 24.53% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:47",
+				"_log.cpu_time" : 5187
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 32.65% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:49",
+				"_log.cpu_time" : 5229
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 40.36% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:51",
+				"_log.cpu_time" : 5271
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 40.37% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:51",
+				"_log.cpu_time" : 5271
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 48.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:53",
+				"_log.cpu_time" : 5313
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 55.97% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:55",
+				"_log.cpu_time" : 5358
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 60.06% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:56",
+				"_log.cpu_time" : 5378
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 63.48% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:57",
+				"_log.cpu_time" : 5399
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 70.38% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:58:59",
+				"_log.cpu_time" : 5440
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 77.46% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:01",
+				"_log.cpu_time" : 5484
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 77.66% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:01",
+				"_log.cpu_time" : 5485
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 84.54% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:03",
+				"_log.cpu_time" : 5528
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 92.1% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:05",
+				"_log.cpu_time" : 5570
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 95.29% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:06",
+				"_log.cpu_time" : 5590
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 99.49% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:07",
+				"_log.cpu_time" : 5616
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:07",
+				"_log.cpu_time" : 5618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:07",
+				"_log.cpu_time" : 5618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_SentinelDownloader -1 5 fo 7 Band_8  0  ce5fefcda4fabc1e89b2a9c5b36d20e7e93f91a3.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:59:07",
+				"_log.cpu_time" : 5618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 7.49% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:09",
+				"_log.cpu_time" : 5654
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 14.77% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:11",
+				"_log.cpu_time" : 5690
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 18.73% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:12",
+				"_log.cpu_time" : 5710
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.15% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:13",
+				"_log.cpu_time" : 5730
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.72% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:15",
+				"_log.cpu_time" : 5771
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.04% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:17",
+				"_log.cpu_time" : 5811
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.06% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:17",
+				"_log.cpu_time" : 5811
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 45.56% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:19",
+				"_log.cpu_time" : 5849
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 52.85% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:21",
+				"_log.cpu_time" : 5891
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 56.63% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:22",
+				"_log.cpu_time" : 5915
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 60.71% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:23",
+				"_log.cpu_time" : 5934
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 68.3% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:25",
+				"_log.cpu_time" : 5975
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.08% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:27",
+				"_log.cpu_time" : 6024
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.12% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:27",
+				"_log.cpu_time" : 6024
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 83.94% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:29",
+				"_log.cpu_time" : 6066
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 91.6% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:31",
+				"_log.cpu_time" : 6111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 95% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:32",
+				"_log.cpu_time" : 6129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 99.18% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:33",
+				"_log.cpu_time" : 6151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:33",
+				"_log.cpu_time" : 6155
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:33",
+				"_log.cpu_time" : 6155
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Sampler_2 -1 29 fo 0 SAMPLED  0  ce87470b26ee1edbabded44680f4756ee9237a54.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 19:59:33",
+				"_log.cpu_time" : 6156
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 7.58% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:35",
+				"_log.cpu_time" : 6192
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 14.95% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:37",
+				"_log.cpu_time" : 6228
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 18.71% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:38",
+				"_log.cpu_time" : 6246
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.06% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:39",
+				"_log.cpu_time" : 6266
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.44% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:41",
+				"_log.cpu_time" : 6310
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.19% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:43",
+				"_log.cpu_time" : 6355
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.2% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:43",
+				"_log.cpu_time" : 6355
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 46.17% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:45",
+				"_log.cpu_time" : 6396
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 54.06% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:47",
+				"_log.cpu_time" : 6434
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 57.72% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:48",
+				"_log.cpu_time" : 6455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 61.63% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:49",
+				"_log.cpu_time" : 6476
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 69.61% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:51",
+				"_log.cpu_time" : 6518
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.93% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:53",
+				"_log.cpu_time" : 6560
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 76.93% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:53",
+				"_log.cpu_time" : 6560
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 84.63% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:55",
+				"_log.cpu_time" : 6605
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 91.34% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:57",
+				"_log.cpu_time" : 6643
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 94.38% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:58",
+				"_log.cpu_time" : 6665
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 98.32% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 19:59:59",
+				"_log.cpu_time" : 6686
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:00",
+				"_log.cpu_time" : 6693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:00",
+				"_log.cpu_time" : 6693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_NDVICalculator -1 9 fo 0 Output  0  34b0c13d2806fdcb51c080ff2ce9919af4c2a47d.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 20:00:00",
+				"_log.cpu_time" : 6693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 3.26% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:02",
+				"_log.cpu_time" : 6727
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 6.55% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:04",
+				"_log.cpu_time" : 6764
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 8.11% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:05",
+				"_log.cpu_time" : 6782
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 9.57% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:06",
+				"_log.cpu_time" : 6798
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 12.68% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:08",
+				"_log.cpu_time" : 6832
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 15.76% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:10",
+				"_log.cpu_time" : 6867
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 15.76% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:10",
+				"_log.cpu_time" : 6867
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 18.76% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:12",
+				"_log.cpu_time" : 6905
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 22.25% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:14",
+				"_log.cpu_time" : 6948
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 23.69% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:15",
+				"_log.cpu_time" : 6965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 25.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:16",
+				"_log.cpu_time" : 6984
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 28.55% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:18",
+				"_log.cpu_time" : 7026
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 31.97% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:20",
+				"_log.cpu_time" : 7061
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 31.99% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:20",
+				"_log.cpu_time" : 7061
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 35.04% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:22",
+				"_log.cpu_time" : 7102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 37.34% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:24",
+				"_log.cpu_time" : 7136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 38.66% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:25",
+				"_log.cpu_time" : 7153
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 39.99% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:26",
+				"_log.cpu_time" : 7170
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 42.45% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:28",
+				"_log.cpu_time" : 7208
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 45.52% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:30",
+				"_log.cpu_time" : 7245
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 45.56% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:30",
+				"_log.cpu_time" : 7245
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 48.71% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:32",
+				"_log.cpu_time" : 7282
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 51.3% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:34",
+				"_log.cpu_time" : 7325
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 52.8% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:35",
+				"_log.cpu_time" : 7340
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 54.43% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:36",
+				"_log.cpu_time" : 7359
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 57.32% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:38",
+				"_log.cpu_time" : 7398
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 60.51% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:40",
+				"_log.cpu_time" : 7433
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 60.6% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:40",
+				"_log.cpu_time" : 7435
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 63.51% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:42",
+				"_log.cpu_time" : 7472
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 66.58% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:44",
+				"_log.cpu_time" : 7513
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 67.97% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:45",
+				"_log.cpu_time" : 7530
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 69.75% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:46",
+				"_log.cpu_time" : 7547
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 72.64% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:48",
+				"_log.cpu_time" : 7585
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 75.47% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:50",
+				"_log.cpu_time" : 7620
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 75.64% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:50",
+				"_log.cpu_time" : 7621
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 78.86% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:52",
+				"_log.cpu_time" : 7661
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 81.61% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:54",
+				"_log.cpu_time" : 7703
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 82.79% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:55",
+				"_log.cpu_time" : 7715
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 84.07% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:56",
+				"_log.cpu_time" : 7736
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 86.6% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:00:58",
+				"_log.cpu_time" : 7771
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 88.68% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:00",
+				"_log.cpu_time" : 7812
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 88.86% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:00",
+				"_log.cpu_time" : 7814
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 91.67% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:02",
+				"_log.cpu_time" : 7851
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 94.66% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:04",
+				"_log.cpu_time" : 7891
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 95.6% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:05",
+				"_log.cpu_time" : 7912
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 97.2% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:06",
+				"_log.cpu_time" : 7933
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Reprojector: Reprojecting from source coordinate system 'UTM84-34N' to destination coordinate system 'LL-WGS84'",
+				"_log.level" : "INFORM",
+				"_log.number" : 913660,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Reprojector: Recalculating raster number of rows and columns from (10980, 10980) to (11099, 11100)",
+				"_log.level" : "INFORM",
+				"_log.number" : 913672,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Reprojector: Recalculating raster cell size from (10, 10) to (0.0001451938473437452, 8.990593207940532e-5)",
+				"_log.level" : "INFORM",
+				"_log.number" : 913662,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Reprojector: Recalculating raster extents from (499980, 5690220), (609780, 5800020) to (20.999706370881352, 51.35260721760738), (22.611358076396925, 52.350473157756696)",
+				"_log.level" : "INFORM",
+				"_log.number" : 913663,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\Main_Reprojector_2 -1 12 fo 0 REPROJECTED  0  72a40cd52f1f011b22ce8d229ce98f265a510016.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 20:01:08",
+				"_log.cpu_time" : 7965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 10.35% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:10",
+				"_log.cpu_time" : 7985
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 21% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:12",
+				"_log.cpu_time" : 8005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 25.98% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:13",
+				"_log.cpu_time" : 8015
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 30.52% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:14",
+				"_log.cpu_time" : 8024
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 40% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:16",
+				"_log.cpu_time" : 8045
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 49.77% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:18",
+				"_log.cpu_time" : 8065
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 49.81% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:18",
+				"_log.cpu_time" : 8065
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 59.95% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:20",
+				"_log.cpu_time" : 8085
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 69.83% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:22",
+				"_log.cpu_time" : 8105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 74.89% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:23",
+				"_log.cpu_time" : 8115
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 80.34% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:24",
+				"_log.cpu_time" : 8125
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 90.29% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:26",
+				"_log.cpu_time" : 8145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "STATRP",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FFS writer: Completed 100% of intermediate processing",
+				"_log.level" : "INFORM",
+				"_log.number" : 911682,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Creating reader for format: JPEG 2000 (GeoJP2/GMLJP2)",
+				"_log.level" : "INFORM",
+				"_log.number" : 871015,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Trying to find a DYNAMIC plugin for reader named `JPEG2000'",
+				"_log.level" : "INFORM",
+				"_log.number" : 871007,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "FME API version of module 'JPEG2000' matches current internal version (3.8 20210302)",
+				"_log.level" : "INFORM",
+				"_log.number" : 23010,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Directive '_READ_OFFSETS_IN_CS_UNITS' has the value 'No'",
+				"_log.level" : "INFORM",
+				"_log.number" : 905560,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "JPEG2000 reader: Opening file 'D:\\Documents\\Aleksandra_Juras\\Studia_sem_5\\Bazy_danych_przestrzennych\\FME12\\downloaded\\sentinel_6\\S2B_MSIL2A_20220121T093209_N0301_R136_T34UEC_20220121T111121.SAFE\\GRANULE\\L2A_T34UEC_A025473_20220121T093212\\IMG_DATA\\R10m\\T34UEC_20220121T093209_B08_10m.jp2'",
+				"_log.level" : "INFORM",
+				"_log.number" : 925970,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Merged 1 schema features read from 1 datasets into 1 resulting feature types",
+				"_log.level" : "INFORM",
+				"_log.number" : 13013,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "SentinelDownloader_FeatureReader_3 (QueryFactory): 4 input initiators processed",
+				"_log.level" : "STATRP",
+				"_log.number" : 370126,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Storing feature(s) to FME feature store file `C:\\Users\\Admin\\AppData\\Local\\Temp\\wb-cache-cw11-wThNUf\\SentinelDownloader_TestFilter_3 1 53 fo 4 _lt_lt_gt_UNFILTERED_lt_gt_gt_  0  5c3fc5d40fc22ba4383c7218d875dc045859b445.ffsupdating'",
+				"_log.level" : "STATS",
+				"_log.number" : 393362,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Adding Clipper 1",
+				"_log.level" : "INFORM",
+				"_log.number" : 37023,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8165
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "LogMessageStreamer (LogMessageFactory): Processed 251 of 380 features",
+				"_log.level" : "STATRP",
+				"_log.number" : 910167,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8165
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "LogMessageStreamer (LogMessageFactory): Processed 251 of 380 features",
+				"_log.level" : "INFORM",
+				"_log.number" : 910167,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8165
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "LogMessageStreamer (LogMessageFactory): Processed 380 of 380 features",
+				"_log.level" : "STATRP",
+				"_log.number" : 910167,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "LogMessageStreamer (LogMessageFactory): Processed 380 of 380 features",
+				"_log.level" : "INFORM",
+				"_log.number" : 910167,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "MULTI_READER(MULTI_READER): Done reading 380 features from 1 readers",
+				"_log.level" : "INFORM",
+				"_log.number" : 224010,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Emptying factory pipeline",
+				"_log.level" : "STATRP",
+				"_log.number" : 231016,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Emptying factory pipeline",
+				"_log.level" : "INFORM",
+				"_log.number" : 231016,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Router and Unexpected Input Remover (RoutingFactory): Tested 380 input feature(s), wrote 380 output feature(s): 380 matched merge filters, 380 were routed to output, 0 could not be routed.",
+				"_log.level" : "STATS",
+				"_log.number" : 370700,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)",
+				"_log.level" : "STATS",
+				"_log.number" : 50001,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Powiaty_SHAPEFILE_1 Splitter (TeeFactory): Cloned 380 input feature(s) into 380 output feature(s)",
+				"_log.level" : "STATS",
+				"_log.number" : 50001,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"_log.message" : "Powiaty_SHAPEFILE_1 Feature Counter -1 4 (TeeFactory): Cloned 380 input feature(s) into 380 output feature(s)",
+				"_log.level" : "STATS",
+				"_log.number" : 50001,
+				"_log.time" : "2022-01-24 20:01:28",
+				"_log.cpu_time" : 8166
+			}
+		}
+	]
+}
